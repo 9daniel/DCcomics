@@ -1,0 +1,6 @@
+C:\Users\etec\Desktop\DCcomics\website\website\bin\website.dll.config
+C:\Users\etec\Desktop\DCcomics\website\website\bin\website.dll
+C:\Users\etec\Desktop\DCcomics\website\website\bin\website.pdb
+C:\Users\etec\Desktop\DCcomics\website\website\obj\Debug\website.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\DCcomics\website\website\obj\Debug\website.dll
+C:\Users\etec\Desktop\DCcomics\website\website\obj\Debug\website.pdb

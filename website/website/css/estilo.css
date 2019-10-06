@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:#464646;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover{
+    color:#0282f9;
+}
+.espaco-acima {
+    padding-top:10px;
+}
